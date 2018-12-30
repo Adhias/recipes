@@ -1,0 +1,31 @@
+name: Build and deploy github pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v7
+
+      - name: Install Cook CLI
+        run: |
+          curl -L https://github.com/cooklang/CookCLI/releases/latest/download/cook-x86_64-unknown-linux-gnu.tar.gz | tar xz && sudo mv cook /usr/local/bin/
+
+      - name: Build Static Website
+        run: |
+          cook build web web
+
+      - name: Deploy to gh-pages Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: web
