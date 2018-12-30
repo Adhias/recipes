@@ -19,7 +19,7 @@ clean:
 	@cd $(BUILDDIR)/html; git init; git remote add origin git@github.com:padhia/recipes.git
 
 push: html
-	@cd $(BUILDDIR)/html; git add .; git ci -m 'rebuilt docs'; git push --force -u origin gh-pages
+	@cd $(BUILDDIR)/html; git co -b gh-pages; git add .; git ci -m 'rebuilt docs'; git push --force -u origin gh-pages
 
 .PHONY: push clean help Makefile
 

@@ -6,3 +6,5 @@ Recipes
    :glob:
 
    *
+
+:ref:`genindex`
