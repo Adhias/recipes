@@ -15,13 +15,19 @@ help:
 clean:
 	@$(SPHINXBUILD) -M clean "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 	@mkdir -p "$(BUILDDIR)"/html/
-	@touch "$(BUILDDIR)"/html/.nojekyll
+	@find "$(SOURCEDIR)/year" -type l -delete
+
+$(BUILDDIR)/html/.git:
 	@cd $(BUILDDIR)/html; git init; git remote add origin git@github.com:padhia/recipes.git
 
-push: html
-	@cd $(BUILDDIR)/html; git co -b gh-pages; git add .; git ci -m 'rebuilt docs'; git push --force -u origin gh-pages
+push: html $(BUILDDIR)/html/.git
+	@cd $(BUILDDIR)/html; git add .; git ci -m 'rebuilt docs'; git push --force -u origin master
 
-.PHONY: push clean help Makefile
+html: Makefile
+	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	@touch "$(BUILDDIR)"/html/.nojekyll
+
+.PHONY: push clean help Makefile html
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 project = 'Recipes'
-copyright = '2019, P Adhia'
+copyright = '2020, P Adhia'
 author = 'P Adhia'
 
 version = ''
