@@ -6,8 +6,8 @@ Cauliflower Shaak
    * 1 `Cauliflower`
    * 1 `Potato`
    * 4 tablespoons `Oil`
-   * 1/4 teaspoon `Hing` (`Asafotida`)
-   * 1/4 teaspoon `Turmeric Power`
+   * :math:`\frac{1}{4}` teaspoon `Hing` (`Asafotida`)
+   * :math:`\frac{1}{4}` teaspoon `Turmeric Power`
    * 1 teaspoon `Salt`
    * 1 teaspoon `Red Chilli Powder`
    * 1 tablespoon `Dhanajiru Powder`

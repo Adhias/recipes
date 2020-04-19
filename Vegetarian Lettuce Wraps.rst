@@ -13,7 +13,7 @@ Vegetarian Lettuce Wraps
    * 1 can `Water Chestnuts` (8 ounces), drained and finely chopped
    * 2 cloves `Garlic` minced
    * 2 teaspoons freshly grated `Ginger`
-   * 1/4 teaspoon `Red Pepper Flakes` omit if sensitive to spice
+   * :math:`\frac{1}{4}` teaspoon `Red Pepper Flakes` omit if sensitive to spice
    * 4 `Green Onions` thinly sliced, divided
    * 8 large inner leaves `Romaine Lettuce` from a romaine heart or `butter lettuce` leaves
    * Optional for serving: grated `Carrots` additional `Red Pepper Flakes`
