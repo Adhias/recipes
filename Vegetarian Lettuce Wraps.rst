@@ -3,20 +3,20 @@ Vegetarian Lettuce Wraps
 
 .. hlist::
 
-   * 3 tablespoons `hoisin sauce`
-   * 3 tablespoons `soy sauce`
-   * 2 tablespoons `rice vinegar`
-   * 1 teaspoon `sesame oil`
-   * 2 teaspoons canola oil or `grapeseed oil`
-   * 1 packages extra-firm `tofu` (12- to 14-ounces), do not use silken
-   * 8 ounces baby bella cremini `mushrooms` finely chopped
-   * 1 can `water chestnuts` (8 ounces), drained and finely chopped
-   * 2 cloves `garlic` minced
-   * 2 teaspoons freshly grated `ginger`
-   * 1/4 teaspoon `red pepper flakes` omit if sensitive to spice
-   * 4 `green onions` thinly sliced, divided
-   * 8 large inner leaves `romaine lettuce` from a romaine heart or `butter lettuce` leaves
-   * Optional for serving: grated carrots additional `red pepper flakes`
+   * 3 tablespoons `Hoisin Sauce`
+   * 3 tablespoons `Soy Sauce`
+   * 2 tablespoons `Rice Vinegar`
+   * 1 teaspoon `Sesame Oil`
+   * 2 teaspoons canola oil or `Grapeseed Oil`
+   * 1 packages extra-firm `Tofu` (12- to 14-ounces), do not use silken
+   * 8 ounces baby bella cremini `Mushrooms` finely chopped
+   * 1 can `Water Chestnuts` (8 ounces), drained and finely chopped
+   * 2 cloves `Garlic` minced
+   * 2 teaspoons freshly grated `Ginger`
+   * 1/4 teaspoon `Red Pepper Flakes` omit if sensitive to spice
+   * 4 `Green Onions` thinly sliced, divided
+   * 8 large inner leaves `Romaine Lettuce` from a romaine heart or `butter lettuce` leaves
+   * Optional for serving: grated `Carrots` additional `Red Pepper Flakes`
 
 Instructions
 ------------
