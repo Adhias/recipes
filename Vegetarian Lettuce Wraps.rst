@@ -9,7 +9,7 @@ Vegetarian Lettuce Wraps
    * 1 teaspoon `Sesame Oil`
    * 2 teaspoons canola oil or `Grapeseed Oil`
    * 1 packages extra-firm `Tofu` (12- to 14-ounces), do not use silken
-   * 8 ounces baby bella cremini `Mushrooms` finely chopped
+   * 8 ounces baby bella cremini `Mushroom` finely chopped
    * 1 can `Water Chestnuts` (8 ounces), drained and finely chopped
    * 2 cloves `Garlic` minced
    * 2 teaspoons freshly grated `Ginger`
