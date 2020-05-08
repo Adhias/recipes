@@ -39,14 +39,16 @@ Instructions
 ------------
 
 #. Prepare avocado dip by smashing together avocados, chopped onions, cilantro, salt, and lemon juice.
+
 #. Cook black beans
+   #. Add 3 tablespoon chopped onions and saute it for 3 to 4 minutes
 
    #. Rinse and drain black beans
    #. Heat two tablespoons of olive oil
-   #. Add 3 tablespoon chopped onions and saute it for 3 to 4 minutes
    #. When onions turn golden brown, add black beans
    #. Add taco seasoning and mix well
    #. Saute for 3 to 4 more minutes
+
 #. Prepare vegetables by,
 
    #. Slice thing all peppers, carrots, Zucchini and remaining onion
@@ -56,7 +58,9 @@ Instructions
    #. Add all peppers and zucchini
    #. Saute everything on medium heat for 10 minutes or until everything looks cooked
    #. Garnish with salt and black pepper
+
 #. Cook tortilla by spreading a bit of olive oil in a pan
+
 #. Prepare fajitas by,
 
    #. spread beans
