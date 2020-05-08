@@ -9,7 +9,7 @@ Fajita
    * 1 `Red Pepper`
    * 1 `Green Pepper`
    * 1 `Yellow Pepper`
-   * 1 `Zuchini`
+   * 1 `Zucchini`
    * 2 `Jalapeno`
    * 1 `Carrrot`
    * 1 cup sliced `Mushroom`
@@ -22,12 +22,12 @@ Fajita
    * `Crushed Black Pepper`
    * `Salsa`
 
-For Avacado Dip
+For Avocado Dip
 ---------------
 
 .. hlist::
 
-   * 1 `Avacado`
+   * 1 `Avocado`
    * 1 `Tomato`
    * 1 `Cilantro`
    * 3 `Onion` slices, chopped
@@ -38,27 +38,30 @@ For Avacado Dip
 Instructions
 ------------
 
-#. Prepare avacado dip by smashing together avacados, chopped onions, cilantro, salt and lemon juice.
+#. Prepare avocado dip by smashing together avocados, chopped onions, cilantro, salt, and lemon juice.
 #. Cook black beans
+
    #. Rinse and drain black beans
-   #. Heat two tablespoon of olive oil
+   #. Heat two tablespoons of olive oil
    #. Add 3 tablespoon chopped onions and saute it for 3 to 4 minutes
    #. When onions turn golden brown, add black beans
    #. Add taco seasoning and mix well
    #. Saute for 3 to 4 more minutes
 #. Prepare vegetables by,
-   #. Slice thing all peppers, carrots, Zuchini and remaining onion
+
+   #. Slice thing all peppers, carrots, Zucchini and remaining onion
    #. Heat up olive oil in a large pan.
    #. Add onion slices and saute for 2 to 3 minutes
    #. Add sliced carrots, saute for 5 to 7 minutes
-   #. Add all peppers and zuchini
-   #. Saute everything on mediun heat for 10 minutes or until everything looks cooked
+   #. Add all peppers and zucchini
+   #. Saute everything on medium heat for 10 minutes or until everything looks cooked
    #. Garnish with salt and black pepper
 #. Cook tortilla by spreading a bit of olive oil in a pan
-#. Prepare fahitas by,
+#. Prepare fajitas by,
+
    #. spread beans
    #. vegetables
    #. Lettuce
    #. avocados
-   #. sour Cream
+   #. sour cream
    #. salsa
