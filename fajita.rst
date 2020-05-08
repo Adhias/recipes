@@ -41,8 +41,8 @@ Instructions
 #. Prepare avocado dip by smashing together avocados, chopped onions, cilantro, salt, and lemon juice.
 
 #. Cook black beans
-   #. Add 3 tablespoon chopped onions and saute it for 3 to 4 minutes
 
+   #. Add 3 tablespoon chopped onions and saute it for 3 to 4 minutes
    #. Rinse and drain black beans
    #. Heat two tablespoons of olive oil
    #. When onions turn golden brown, add black beans
