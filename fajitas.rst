@@ -1,5 +1,7 @@
-Fajita
-======
+Fajitas
+=======
+
+.. _blackbeans_prep:
 
 Black Beans
 -----------
@@ -17,6 +19,8 @@ Black Beans
 #. Add taco seasoning and mix well
 #. Saute for 3 to 4 more minutes
 
+.. _guacamole_prep:
+
 Avocado Dip (Guacamole)
 -----------------------
 
@@ -30,8 +34,10 @@ Avocado Dip (Guacamole)
    * 1 teaspoon `Lemon Juice`
    * :math:`\frac{1}{4}` teaspoon `Chilli Powder`
 
-#. Crush avocados
+#. Mash avocados in a bowl using a fork
 #. Add chopped onions, cilantro, salt, and lemon juice
+
+.. _grilledveg_prep:
 
 Vegetables
 ----------
@@ -57,8 +63,8 @@ Vegetables
 #. Saute everything on medium heat for 10 minutes or until everything looks cooked
 #. Garnish with salt and black pepper
 
-Fajita
-------
+Fajitas
+-------
 
 .. hlist::
 
@@ -69,11 +75,12 @@ Fajita
    * 4 tablespoon `Olive Oil`
    * `Salsa`
 
-#. Grill tortilla by spreading a bit of olive oil in a pan
-#. layer folloing items on fajita
-#. spread beans
-#. vegetables
-#. Lettuce
-#. avocados
-#. sour cream
-#. salsa
+#. Spread a bit of olive oil in a pan and slightly grill tortillas
+#. On each tortilla layer folloing items,
+
+   - beans
+   - vegetables
+   - Lettuce
+   - avocados
+   - sour cream
+   - salsa

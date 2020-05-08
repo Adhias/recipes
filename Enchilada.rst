@@ -6,9 +6,9 @@ Enchilada Sauce
 
 .. hlist::
 
-   * one can traditional `Pasta Sauce`
-   * half teaspoon `Red Pepper Flakes`
-   * half teaspoon `Sugar`
+   * 1 can traditional `Pasta Sauce`
+   * :math:`\frac{1}{2}` teaspoon `Red Pepper Flakes`
+   * :math:`\frac{1}{2}` teaspoon `Sugar`
    * :math:`\frac{1}{4}` teaspoon `Garlic Paste`
    * :math:`\frac{1}{2}` teaspoon `Taco Seasoning`
 
@@ -27,10 +27,7 @@ Enchilada
    * 4 tablespoon `Olive Oil`
    * `Salsa`
 
-#. Prepare guacamole, black beans and grilled vegetables as described in receipe for fajita
-#. place a tortilla in a microwavable plate
-#. make layers of black beans and grilled vegetables
-#. roll the tortilla
-#. pour enchilada sauce and sprinkle mexican cheeese
-#. microwave it for a minute
-#. garnish with layers of guacomole, shredded lettuce, mushroom, sour cream and jalapeno
+#. Prepare :ref:`guacamole <guacamole_prep>`, :ref:`black beans <blackbeans_prep>` and :ref:`grilled vegetables <grilledveg_prep>` as described in receipe for fajitas
+#. Place a tortilla in a microwavable plate; spread black beans and grilled vegetables on it
+#. Roll the tortilla, pour enchilada sauce and sprinkle mexican cheeese on it before microwaving it for about a minute
+#. Garnish the tortilla with guacomole, shredded lettuce, mushroom, sour cream and jalapeno
